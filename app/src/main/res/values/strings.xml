@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodFilters</string>
+    <string name="filter_options">Filter Options</string>
+</resources>
